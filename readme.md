@@ -33,3 +33,6 @@ O chuveiro é maravilhoso."
 
 ### Resultado
 ![Captura de tela resultado análise sentença 03](Sentença03.png)
+
+## Conclusão
+Pode ser muito útil para que empresas façam avaliação da opinião e sentimentos de milhares de clientes sobre os seus produtos ou  serviços.
